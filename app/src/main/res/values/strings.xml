@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">proyecto_firebase_menu</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="confirmar_password">Confirmar contraseña</string>
+
+</resources>
